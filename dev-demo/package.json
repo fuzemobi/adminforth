@@ -14,11 +14,11 @@
   "license": "ISC",
   "dependencies": {
     "@prisma/client": "^5.22.0",
-    "adminforth": "^1.5.8-next.29",
-    "better-sqlite3": "^10.1.0",
+    "adminforth": "^3.17.1",
+    "better-sqlite3": "^13.0.3",
     "express": "^4.21.0",
     "random-words": "^2.0.1",
-    "uuid": "^9.0.1"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "prisma": "^5.22.0",
